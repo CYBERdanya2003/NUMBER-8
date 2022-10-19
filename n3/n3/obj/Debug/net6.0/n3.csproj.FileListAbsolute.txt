@@ -1,0 +1,14 @@
+C:\Users\danya\Desktop\8\NUMBER-8\n3\n3\bin\Debug\net6.0\n3.exe
+C:\Users\danya\Desktop\8\NUMBER-8\n3\n3\bin\Debug\net6.0\n3.deps.json
+C:\Users\danya\Desktop\8\NUMBER-8\n3\n3\bin\Debug\net6.0\n3.runtimeconfig.json
+C:\Users\danya\Desktop\8\NUMBER-8\n3\n3\bin\Debug\net6.0\n3.dll
+C:\Users\danya\Desktop\8\NUMBER-8\n3\n3\bin\Debug\net6.0\ref\n3.dll
+C:\Users\danya\Desktop\8\NUMBER-8\n3\n3\bin\Debug\net6.0\n3.pdb
+C:\Users\danya\Desktop\8\NUMBER-8\n3\n3\obj\Debug\net6.0\n3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danya\Desktop\8\NUMBER-8\n3\n3\obj\Debug\net6.0\n3.AssemblyInfoInputs.cache
+C:\Users\danya\Desktop\8\NUMBER-8\n3\n3\obj\Debug\net6.0\n3.AssemblyInfo.cs
+C:\Users\danya\Desktop\8\NUMBER-8\n3\n3\obj\Debug\net6.0\n3.csproj.CoreCompileInputs.cache
+C:\Users\danya\Desktop\8\NUMBER-8\n3\n3\obj\Debug\net6.0\n3.dll
+C:\Users\danya\Desktop\8\NUMBER-8\n3\n3\obj\Debug\net6.0\ref\n3.dll
+C:\Users\danya\Desktop\8\NUMBER-8\n3\n3\obj\Debug\net6.0\n3.pdb
+C:\Users\danya\Desktop\8\NUMBER-8\n3\n3\obj\Debug\net6.0\n3.genruntimeconfig.cache
