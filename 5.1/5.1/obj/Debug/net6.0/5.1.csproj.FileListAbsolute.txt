@@ -1,0 +1,14 @@
+C:\Users\danya\Desktop\8\NUMBER-8\5.1\5.1\bin\Debug\net6.0\5.1.exe
+C:\Users\danya\Desktop\8\NUMBER-8\5.1\5.1\bin\Debug\net6.0\5.1.deps.json
+C:\Users\danya\Desktop\8\NUMBER-8\5.1\5.1\bin\Debug\net6.0\5.1.runtimeconfig.json
+C:\Users\danya\Desktop\8\NUMBER-8\5.1\5.1\bin\Debug\net6.0\5.1.dll
+C:\Users\danya\Desktop\8\NUMBER-8\5.1\5.1\bin\Debug\net6.0\ref\5.1.dll
+C:\Users\danya\Desktop\8\NUMBER-8\5.1\5.1\bin\Debug\net6.0\5.1.pdb
+C:\Users\danya\Desktop\8\NUMBER-8\5.1\5.1\obj\Debug\net6.0\5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danya\Desktop\8\NUMBER-8\5.1\5.1\obj\Debug\net6.0\5.1.AssemblyInfoInputs.cache
+C:\Users\danya\Desktop\8\NUMBER-8\5.1\5.1\obj\Debug\net6.0\5.1.AssemblyInfo.cs
+C:\Users\danya\Desktop\8\NUMBER-8\5.1\5.1\obj\Debug\net6.0\5.1.csproj.CoreCompileInputs.cache
+C:\Users\danya\Desktop\8\NUMBER-8\5.1\5.1\obj\Debug\net6.0\5.1.dll
+C:\Users\danya\Desktop\8\NUMBER-8\5.1\5.1\obj\Debug\net6.0\ref\5.1.dll
+C:\Users\danya\Desktop\8\NUMBER-8\5.1\5.1\obj\Debug\net6.0\5.1.pdb
+C:\Users\danya\Desktop\8\NUMBER-8\5.1\5.1\obj\Debug\net6.0\5.1.genruntimeconfig.cache
